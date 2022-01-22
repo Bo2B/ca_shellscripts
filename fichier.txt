@@ -1,5 +1,0 @@
-Configure ton Git (nom, email..)
-
-Regarde comment fonctionne vim.
-
-
